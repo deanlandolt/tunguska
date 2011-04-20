@@ -9,7 +9,7 @@
   ],
   "githubName": "tunguska",
   "mappings":{
-    "patr": "http://github.com/kriszyp/patr/zipball/v0.2.1"
+    "patr/lib/": "http://github.com/kriszyp/patr/zipball/v0.2.1"
   },
   "licenses": [
      {
